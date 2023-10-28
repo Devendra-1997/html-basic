@@ -1,0 +1,10 @@
+create repo in github
+go to your project and initialize the git
+git run: git init
+run: git add .
+run: git commit -m "write your messages"
+<first time code setup>
+
+copy 3 line of code 
+<after change made>
+git push
